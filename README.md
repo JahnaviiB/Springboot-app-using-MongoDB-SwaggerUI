@@ -18,4 +18,4 @@ Before running the application, ensure you have the following installed:
 * MongoDB Server
 
 Configuration
-You can configure the MongoDB connection settings and other application properties in the application.properties file.
+* You can configure the MongoDB connection settings and other application properties in the application.properties file.
